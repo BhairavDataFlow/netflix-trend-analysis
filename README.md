@@ -60,8 +60,6 @@ Size: ~5MB (Safe for GitHub upload ✅)
 
 📈 Sample Visualizations
 
-(Add screenshots here after running your notebook)
-
 Movies vs. TV Shows Distribution Pie Chart
 
 Growth of Netflix Library Line Graph
